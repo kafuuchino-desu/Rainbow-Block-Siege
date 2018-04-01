@@ -1,3 +1,8 @@
-# Rainbow Block Siege
-一个和朋友瞎搞的项目，可能会涉及很多方面（cb,mod,红石，模型，材质etc）
-还在初期阶段，欢迎围观
+Rainbow Block Siege
+===================
+[中文文档](https://github.com/kafuuchino-desu/Rainbow-Block-Siege/blob/master/README_cn.md)
+
+----------
+A project for playing "Tom Clancy's Rainbow Six Siege" in minecraft
+Now building models and textures,using command block to make agent skills,using Vic's modern warfare mod because of the nice guns XD
+contact us at https://discord.gg/cwSPn
