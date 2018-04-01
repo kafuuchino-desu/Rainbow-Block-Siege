@@ -1,5 +1,4 @@
-{
-    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+{    
     "textures": {
         "0": "blocks/planks_spruce",
         "1": "blocks/iron_block"
